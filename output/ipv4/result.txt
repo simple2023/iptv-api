@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-01 02:42:33,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+2026-03-04 13:52:50,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 
 央视频道,#genre#
 CCTV3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV8,http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -21,31 +20,27 @@ CCTV17,http://1.24.39.180:9003/hls/61/index.m3u8
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://119.91.7.169:2026/ysws.php?id=北京卫视
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
-海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-海南卫视,https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=5798325d135c420732fb9c7a5695b65c&txTime=69A363A1
 江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
 江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8
 辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
+辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=051410900bb04bf6ae688edada282f1b
+宁夏卫视,http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
-深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 
 战争电影,#genre#
 
@@ -92,10 +87,14 @@ CCTV17,http://1.24.39.180:9003/hls/61/index.m3u8
 聊斋,#genre#
 
 聊斋先生,#genre#
+第一集,https://vod.guoluche.com/20230807/OlKU4RaC/index.m3u8
 第四集,https://vod.guoluche.com/20230807/oUhiwcIn/index.m3u8
 第七集,https://vod.guoluche.com/20230807/IO00q7lw/index.m3u8
+第九集,https://vod.guoluche.com/20230807/8YSxlSat/index.m3u8
 第十二集,https://vod.guoluche.com/20230807/jOR1NZxa/index.m3u8
+第十三集,https://vod.guoluche.com/20230807/78dfVQer/index.m3u8
 第十九集,https://vod.guoluche.com/20230807/Ec5k3Ddh/index.m3u8
+第二十集,https://vod.guoluche.com/20230807/lPDpBCdI/index.m3u8
 第二十三集,https://vod.guoluche.com/20230807/iS0eOOxy/index.m3u8
 
 西游记86版,#genre#

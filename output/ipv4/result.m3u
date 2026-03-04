@@ -1,161 +1,159 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/simple2023/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://10.1.0.157:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-03-01 02:42:33
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://10.1.0.199:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-03-04 13:52:50
 http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="http://10.1.0.157:5180/logo/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="http://10.1.0.199:5180/logo/CCTV3.png" group-title="央视频道",CCTV3
 http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="http://10.1.0.157:5180/logo/CCTV3.png" group-title="央视频道",CCTV3
-http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV4" tvg-logo="http://10.1.0.157:5180/logo/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV4" tvg-logo="http://10.1.0.199:5180/logo/CCTV4.png" group-title="央视频道",CCTV4
 http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV6" tvg-logo="http://10.1.0.157:5180/logo/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV6" tvg-logo="http://10.1.0.199:5180/logo/CCTV6.png" group-title="央视频道",CCTV6
 http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV8" tvg-logo="http://10.1.0.157:5180/logo/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV8" tvg-logo="http://10.1.0.199:5180/logo/CCTV8.png" group-title="央视频道",CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV9" tvg-logo="http://10.1.0.157:5180/logo/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV9" tvg-logo="http://10.1.0.199:5180/logo/CCTV9.png" group-title="央视频道",CCTV9
 http://23.237.228.134/live5/CCTV9.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV12" tvg-logo="http://10.1.0.157:5180/logo/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV12" tvg-logo="http://10.1.0.199:5180/logo/CCTV12.png" group-title="央视频道",CCTV12
 http://120.211.62.180:8000/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="http://10.1.0.157:5180/logo/CCTV16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="http://10.1.0.199:5180/logo/CCTV16.png" group-title="央视频道",CCTV16
 http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="http://10.1.0.157:5180/logo/CCTV16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="http://10.1.0.199:5180/logo/CCTV16.png" group-title="央视频道",CCTV16
 http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV17" tvg-logo="http://10.1.0.157:5180/logo/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV17" tvg-logo="http://10.1.0.199:5180/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://1.24.39.180:9003/hls/61/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="广东卫视" tvg-logo="http://10.1.0.157:5180/logo/广东卫视.png" group-title="卫视频道",广东卫视
+#EXTINF:-1 tvg-id="10" tvg-name="广东卫视" tvg-logo="http://10.1.0.199:5180/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://23.237.228.134/live6/guangdong.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="广东卫视" tvg-logo="http://10.1.0.157:5180/logo/广东卫视.png" group-title="卫视频道",广东卫视
+#EXTINF:-1 tvg-id="10" tvg-name="广东卫视" tvg-logo="http://10.1.0.199:5180/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="11" tvg-name="湖南卫视" tvg-logo="http://10.1.0.157:5180/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-id="11" tvg-name="湖南卫视" tvg-logo="http://10.1.0.199:5180/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://23.237.228.134/live6/hunan.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="湖南卫视" tvg-logo="http://10.1.0.157:5180/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-id="11" tvg-name="湖南卫视" tvg-logo="http://10.1.0.199:5180/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="湖南卫视" tvg-logo="http://10.1.0.157:5180/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-id="11" tvg-name="湖南卫视" tvg-logo="http://10.1.0.199:5180/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="http://10.1.0.157:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="http://10.1.0.199:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://23.237.228.134/live3/beijing.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="http://10.1.0.157:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="http://10.1.0.199:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="湖北卫视" tvg-logo="http://10.1.0.157:5180/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="http://10.1.0.199:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://119.91.7.169:2026/ysws.php?id=北京卫视
+#EXTINF:-1 tvg-id="13" tvg-name="湖北卫视" tvg-logo="http://10.1.0.199:5180/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://23.237.228.134/live6/hubei.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="重庆卫视" tvg-logo="http://10.1.0.157:5180/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="14" tvg-name="重庆卫视" tvg-logo="http://10.1.0.199:5180/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://23.237.228.134/live6/chongqing.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="重庆卫视" tvg-logo="http://10.1.0.157:5180/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="14" tvg-name="重庆卫视" tvg-logo="http://10.1.0.199:5180/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://112.27.235.94:8000/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="东方卫视" tvg-logo="http://10.1.0.157:5180/logo/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-id="15" tvg-name="东方卫视" tvg-logo="http://10.1.0.199:5180/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="广西卫视" tvg-logo="http://10.1.0.157:5180/logo/广西卫视.png" group-title="卫视频道",广西卫视
+#EXTINF:-1 tvg-id="16" tvg-name="广西卫视" tvg-logo="http://10.1.0.199:5180/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://23.237.228.134/live6/guizhou.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="海南卫视" tvg-logo="http://10.1.0.157:5180/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="海南卫视" tvg-logo="http://10.1.0.157:5180/logo/海南卫视.png" group-title="卫视频道",海南卫视
-https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
-#EXTINF:-1 tvg-id="18" tvg-name="河南卫视" tvg-logo="http://10.1.0.157:5180/logo/河南卫视.png" group-title="卫视频道",河南卫视
+#EXTINF:-1 tvg-id="17" tvg-name="海南卫视" tvg-logo="http://10.1.0.199:5180/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 tvg-id="18" tvg-name="河南卫视" tvg-logo="http://10.1.0.199:5180/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 tvg-id="19" tvg-name="吉林卫视" tvg-logo="http://10.1.0.157:5180/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="19" tvg-name="吉林卫视" tvg-logo="http://10.1.0.199:5180/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=5798325d135c420732fb9c7a5695b65c&txTime=69A363A1
-#EXTINF:-1 tvg-id="20" tvg-name="江苏卫视" tvg-logo="http://10.1.0.157:5180/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="20" tvg-name="江苏卫视" tvg-logo="http://10.1.0.199:5180/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="江西卫视" tvg-logo="http://10.1.0.157:5180/logo/江西卫视.png" group-title="卫视频道",江西卫视
+#EXTINF:-1 tvg-id="21" tvg-name="江西卫视" tvg-logo="http://10.1.0.199:5180/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.157:5180/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.157:5180/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://120.211.62.180:8000/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.157:5180/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="22" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.199:5180/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://36.129.58.53:8008/paiptv/LNWS.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="内蒙古卫视" tvg-logo="http://10.1.0.157:5180/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="22" tvg-name="辽宁卫视" tvg-logo="http://10.1.0.199:5180/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="内蒙古卫视" tvg-logo="http://10.1.0.199:5180/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=051410900bb04bf6ae688edada282f1b
-#EXTINF:-1 tvg-id="24" tvg-name="青海卫视" tvg-logo="http://10.1.0.157:5180/logo/青海卫视.png" group-title="卫视频道",青海卫视
+#EXTINF:-1 tvg-id="24" tvg-name="宁夏卫视" tvg-logo="http://10.1.0.199:5180/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="25" tvg-name="青海卫视" tvg-logo="http://10.1.0.199:5180/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="25" tvg-name="陕西卫视" tvg-logo="http://10.1.0.157:5180/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://23.237.228.134/live6/sichuan.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="四川卫视" tvg-logo="http://10.1.0.157:5180/logo/四川卫视.png" group-title="卫视频道",四川卫视
+#EXTINF:-1 tvg-id="26" tvg-name="四川卫视" tvg-logo="http://10.1.0.199:5180/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="四川卫视" tvg-logo="http://10.1.0.157:5180/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.157:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://23.237.228.134/live6/shenzhen.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.157:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.157:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.199:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.157:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.157:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="28" tvg-name="三沙卫视" tvg-logo="http://10.1.0.157:5180/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="http://10.1.0.199:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="三沙卫视" tvg-logo="http://10.1.0.199:5180/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="29" tvg-name="1985年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1985年央视春晚.png" group-title="春晚现场",1985年央视春晚
+#EXTINF:-1 tvg-id="28" tvg-name="三沙卫视" tvg-logo="http://10.1.0.199:5180/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="1985年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1985年央视春晚.png" group-title="春晚现场",1985年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1 tvg-id="30" tvg-name="1986年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1986年央视春晚.png" group-title="春晚现场",1986年央视春晚
+#EXTINF:-1 tvg-id="30" tvg-name="1986年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1986年央视春晚.png" group-title="春晚现场",1986年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1 tvg-id="31" tvg-name="1987年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1987年央视春晚.png" group-title="春晚现场",1987年央视春晚
+#EXTINF:-1 tvg-id="31" tvg-name="1987年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1987年央视春晚.png" group-title="春晚现场",1987年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1 tvg-id="32" tvg-name="1988年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1988年央视春晚.png" group-title="春晚现场",1988年央视春晚
+#EXTINF:-1 tvg-id="32" tvg-name="1988年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1988年央视春晚.png" group-title="春晚现场",1988年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1 tvg-id="33" tvg-name="1989年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1989年央视春晚.png" group-title="春晚现场",1989年央视春晚
+#EXTINF:-1 tvg-id="33" tvg-name="1989年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1989年央视春晚.png" group-title="春晚现场",1989年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1 tvg-id="34" tvg-name="1991年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1991年央视春晚.png" group-title="春晚现场",1991年央视春晚
+#EXTINF:-1 tvg-id="34" tvg-name="1991年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1991年央视春晚.png" group-title="春晚现场",1991年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1 tvg-id="35" tvg-name="1993年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1993年央视春晚.png" group-title="春晚现场",1993年央视春晚
+#EXTINF:-1 tvg-id="35" tvg-name="1993年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1993年央视春晚.png" group-title="春晚现场",1993年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1 tvg-id="36" tvg-name="1994年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1994年央视春晚.png" group-title="春晚现场",1994年央视春晚
+#EXTINF:-1 tvg-id="36" tvg-name="1994年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1994年央视春晚.png" group-title="春晚现场",1994年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1 tvg-id="37" tvg-name="1995年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1995年央视春晚.png" group-title="春晚现场",1995年央视春晚
+#EXTINF:-1 tvg-id="37" tvg-name="1995年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1995年央视春晚.png" group-title="春晚现场",1995年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1 tvg-id="38" tvg-name="1996年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1996年央视春晚.png" group-title="春晚现场",1996年央视春晚
+#EXTINF:-1 tvg-id="38" tvg-name="1996年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1996年央视春晚.png" group-title="春晚现场",1996年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1 tvg-id="39" tvg-name="1999年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/1999年央视春晚.png" group-title="春晚现场",1999年央视春晚
+#EXTINF:-1 tvg-id="39" tvg-name="1999年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/1999年央视春晚.png" group-title="春晚现场",1999年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1 tvg-id="40" tvg-name="2000年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2000年央视春晚.png" group-title="春晚现场",2000年央视春晚
+#EXTINF:-1 tvg-id="40" tvg-name="2000年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2000年央视春晚.png" group-title="春晚现场",2000年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1 tvg-id="41" tvg-name="2001年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2001年央视春晚.png" group-title="春晚现场",2001年央视春晚
+#EXTINF:-1 tvg-id="41" tvg-name="2001年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2001年央视春晚.png" group-title="春晚现场",2001年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1 tvg-id="42" tvg-name="2002年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2002年央视春晚.png" group-title="春晚现场",2002年央视春晚
+#EXTINF:-1 tvg-id="42" tvg-name="2002年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2002年央视春晚.png" group-title="春晚现场",2002年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1 tvg-id="43" tvg-name="2003年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2003年央视春晚.png" group-title="春晚现场",2003年央视春晚
+#EXTINF:-1 tvg-id="43" tvg-name="2003年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2003年央视春晚.png" group-title="春晚现场",2003年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1 tvg-id="44" tvg-name="2004年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2004年央视春晚.png" group-title="春晚现场",2004年央视春晚
+#EXTINF:-1 tvg-id="44" tvg-name="2004年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2004年央视春晚.png" group-title="春晚现场",2004年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1 tvg-id="45" tvg-name="2005年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2005年央视春晚.png" group-title="春晚现场",2005年央视春晚
+#EXTINF:-1 tvg-id="45" tvg-name="2005年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2005年央视春晚.png" group-title="春晚现场",2005年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1 tvg-id="46" tvg-name="2006年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2006年央视春晚.png" group-title="春晚现场",2006年央视春晚
+#EXTINF:-1 tvg-id="46" tvg-name="2006年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2006年央视春晚.png" group-title="春晚现场",2006年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1 tvg-id="47" tvg-name="2007年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2007年央视春晚.png" group-title="春晚现场",2007年央视春晚
+#EXTINF:-1 tvg-id="47" tvg-name="2007年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2007年央视春晚.png" group-title="春晚现场",2007年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1 tvg-id="48" tvg-name="2008年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2008年央视春晚.png" group-title="春晚现场",2008年央视春晚
+#EXTINF:-1 tvg-id="48" tvg-name="2008年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2008年央视春晚.png" group-title="春晚现场",2008年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1 tvg-id="49" tvg-name="2009年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2009年央视春晚.png" group-title="春晚现场",2009年央视春晚
+#EXTINF:-1 tvg-id="49" tvg-name="2009年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2009年央视春晚.png" group-title="春晚现场",2009年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1 tvg-id="50" tvg-name="2010年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2010年央视春晚.png" group-title="春晚现场",2010年央视春晚
+#EXTINF:-1 tvg-id="50" tvg-name="2010年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2010年央视春晚.png" group-title="春晚现场",2010年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1 tvg-id="51" tvg-name="2011年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2011年央视春晚.png" group-title="春晚现场",2011年央视春晚
+#EXTINF:-1 tvg-id="51" tvg-name="2011年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2011年央视春晚.png" group-title="春晚现场",2011年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1 tvg-id="52" tvg-name="2013年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2013年央视春晚.png" group-title="春晚现场",2013年央视春晚
+#EXTINF:-1 tvg-id="52" tvg-name="2013年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2013年央视春晚.png" group-title="春晚现场",2013年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1 tvg-id="53" tvg-name="2014年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2014年央视春晚.png" group-title="春晚现场",2014年央视春晚
+#EXTINF:-1 tvg-id="53" tvg-name="2014年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2014年央视春晚.png" group-title="春晚现场",2014年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1 tvg-id="54" tvg-name="2015年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2015年央视春晚.png" group-title="春晚现场",2015年央视春晚
+#EXTINF:-1 tvg-id="54" tvg-name="2015年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2015年央视春晚.png" group-title="春晚现场",2015年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1 tvg-id="55" tvg-name="2017年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2017年央视春晚.png" group-title="春晚现场",2017年央视春晚
+#EXTINF:-1 tvg-id="55" tvg-name="2017年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2017年央视春晚.png" group-title="春晚现场",2017年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1 tvg-id="56" tvg-name="2019年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2019年央视春晚.png" group-title="春晚现场",2019年央视春晚
+#EXTINF:-1 tvg-id="56" tvg-name="2019年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2019年央视春晚.png" group-title="春晚现场",2019年央视春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1 tvg-id="57" tvg-name="2020年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2020年央视春晚.png" group-title="春晚现场",2020年央视春晚
+#EXTINF:-1 tvg-id="57" tvg-name="2020年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2020年央视春晚.png" group-title="春晚现场",2020年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1 tvg-id="58" tvg-name="2021年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2021年央视春晚.png" group-title="春晚现场",2021年央视春晚
+#EXTINF:-1 tvg-id="58" tvg-name="2021年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2021年央视春晚.png" group-title="春晚现场",2021年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1 tvg-id="59" tvg-name="2022年央视春晚" tvg-logo="http://10.1.0.157:5180/logo/2022年央视春晚.png" group-title="春晚现场",2022年央视春晚
+#EXTINF:-1 tvg-id="59" tvg-name="2022年央视春晚" tvg-logo="http://10.1.0.199:5180/logo/2022年央视春晚.png" group-title="春晚现场",2022年央视春晚
 https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1 tvg-id="60" tvg-name="模特DJ" tvg-logo="http://10.1.0.157:5180/logo/模特DJ.png" group-title="🎤DJ  歌曲",模特DJ
+#EXTINF:-1 tvg-id="60" tvg-name="模特DJ" tvg-logo="http://10.1.0.199:5180/logo/模特DJ.png" group-title="🎤DJ  歌曲",模特DJ
 http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
-#EXTINF:-1 tvg-id="61" tvg-name="第四集" tvg-logo="http://10.1.0.157:5180/logo/第四集.png" group-title="聊斋先生",第四集
+#EXTINF:-1 tvg-id="61" tvg-name="第一集" tvg-logo="http://10.1.0.199:5180/logo/第一集.png" group-title="聊斋先生",第一集
+https://vod.guoluche.com/20230807/OlKU4RaC/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="第四集" tvg-logo="http://10.1.0.199:5180/logo/第四集.png" group-title="聊斋先生",第四集
 https://vod.guoluche.com/20230807/oUhiwcIn/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="第七集" tvg-logo="http://10.1.0.157:5180/logo/第七集.png" group-title="聊斋先生",第七集
+#EXTINF:-1 tvg-id="63" tvg-name="第七集" tvg-logo="http://10.1.0.199:5180/logo/第七集.png" group-title="聊斋先生",第七集
 https://vod.guoluche.com/20230807/IO00q7lw/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="第十二集" tvg-logo="http://10.1.0.157:5180/logo/第十二集.png" group-title="聊斋先生",第十二集
+#EXTINF:-1 tvg-id="64" tvg-name="第九集" tvg-logo="http://10.1.0.199:5180/logo/第九集.png" group-title="聊斋先生",第九集
+https://vod.guoluche.com/20230807/8YSxlSat/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="第十二集" tvg-logo="http://10.1.0.199:5180/logo/第十二集.png" group-title="聊斋先生",第十二集
 https://vod.guoluche.com/20230807/jOR1NZxa/index.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="第十九集" tvg-logo="http://10.1.0.157:5180/logo/第十九集.png" group-title="聊斋先生",第十九集
+#EXTINF:-1 tvg-id="66" tvg-name="第十三集" tvg-logo="http://10.1.0.199:5180/logo/第十三集.png" group-title="聊斋先生",第十三集
+https://vod.guoluche.com/20230807/78dfVQer/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="第十九集" tvg-logo="http://10.1.0.199:5180/logo/第十九集.png" group-title="聊斋先生",第十九集
 https://vod.guoluche.com/20230807/Ec5k3Ddh/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="第二十三集" tvg-logo="http://10.1.0.157:5180/logo/第二十三集.png" group-title="聊斋先生",第二十三集
+#EXTINF:-1 tvg-id="68" tvg-name="第二十集" tvg-logo="http://10.1.0.199:5180/logo/第二十集.png" group-title="聊斋先生",第二十集
+https://vod.guoluche.com/20230807/lPDpBCdI/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="第二十三集" tvg-logo="http://10.1.0.199:5180/logo/第二十三集.png" group-title="聊斋先生",第二十三集
 https://vod.guoluche.com/20230807/iS0eOOxy/index.m3u8
